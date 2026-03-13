@@ -46,4 +46,4 @@ Você precisará de um servidor local Apache com suporte a PHP e MySQL (recomend
 
 1. **Clone o repositório**
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone https://github.com/Yasmin-Gabrielli/wiki-termoV2.git
